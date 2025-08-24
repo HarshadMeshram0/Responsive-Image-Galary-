@@ -1,1 +1,1 @@
-# Responsive-Image-Galary-
+# Responsive-Image-Gallary
